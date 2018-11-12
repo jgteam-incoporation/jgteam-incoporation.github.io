@@ -1,26 +1,26 @@
-# Giới thiệu
+# Giới thiệu và Nội Quy
 
 JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có thể chia sẻ những thứ của bạn cho mọi người và bạn có thể nhận lại những thứ còn hay ho hơn thế. Chủ yếu là về Lập Trình, Thiết Kế Đồ Họa, CMS,.v.v.
 
 ![JGTeaM Community](https://i.imgur.com/Q6s3TiC.jpg)
 [Tham gia nhóm ngay][1]
-# Nội quy khi tham gia thành viên Group JGTeaM Community
+## Nội quy khi tham gia thành viên Group JGTeaM Community
 
-## Quy định chung
+### Quy định chung
 
 1. Không dẫn các nguồn từ VOA Tiếng Việt, BBC Tiếng Việt, RFI, RFA Tiếng Việt,.v.v. Vì đây là các trang thường tổ lái đến vấn đề chính trị. Tránh lôi những nguồn này vào.
 1. Không phân biệt vùng miền, dân tộc, không gọi nhau là bò đỏ, bò vàng,.v.v. Vì đây là những từ liên quan rất nhiều về Chính Trị. Ai lôi vào đây tôi cho bay màu!
 
-## Về tài khoản
+### Về tài khoản
 
-### Phải
+#### Phải
 
 - Phải trên 30 ngày sử dụng Facebook.
 - Phải đảm bảo tên tài khoản phải hợp lệ. Ví dụ: `Trần Văn A`.
 - Phải có ảnh đại diện, có bài viết (nói chung là có hoạt động, không phải là nick Clone).
 - Phải trả lời câu hỏi mới được vào Group.
 
-### Không
+#### Không
 
 1. Không vi phạm những quy định chung.
 1. Không dính dáng đến vấn đề chính trị (rất phức tạp).
@@ -28,15 +28,15 @@ JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có
 1. Không được đặt ảnh đại diện trùng với thành viên Ban Quản Trị.
 1. Không được đặt tên giống thành viên Ban Quản Trị.
 
-## Về bài viết
+### Về bài viết
 
-### Phải
+#### Phải
 
 - Phải có đầy đủ chủ ngữ, vị ngữ.
 - Phải phù hợp với **Thuần Phong Mỹ Tục của Việt Nam**.
 - Phải được **ban quản trị** xem xét mới được duyệt.
 
-### Không
+#### Không
 
 1. Không vi phạm những quy định chung.
 1. Không được tổ lái đến *chính trị*.
@@ -48,7 +48,7 @@ JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có
 1. Không được quảng cáo Fanpage Facebook khác.
 1. Không chèn các đường link (URL) độc hại vào Group.
 
-### Nên
+#### Nên
 
 - Nên có các Hashtag để dễ phân loại hơn. Danh sách các Hashtag (Có thể có nhiều Hashtag trong một bài viết):
 
@@ -62,14 +62,14 @@ JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có
 
 - Nên kham thảo các nguồn đáng tin cậy nếu muốn tranh luận.
 
-## Về bình luận
+### Về bình luận
 
-### Phải
+#### Phải
 
 - Phải có đủ chủ vị.
 - Nếu tranh luận về Công Nghệ cần có các nguồn dẫn thích hợp.
 
-### Không
+#### Không
 
 1. Không vi phạm những quy định chung.
 1. Không xúc phạm danh dự, nhân phẩm người khác.
