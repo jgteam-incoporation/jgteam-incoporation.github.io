@@ -2,6 +2,8 @@
 
 JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có thể chia sẻ những thứ của bạn cho mọi người và bạn có thể nhận lại những thứ còn hay ho hơn thế. Chủ yếu là về Lập Trình, Thiết Kế Đồ Họa, CMS,.v.v.
 
+![JGTeaM Community](https://i.imgur.com/Q6s3TiC.jpg)
+
 # Nội quy khi tham gia thành viên Group JGTeaM Community
 
 ## Về bài viết
@@ -25,5 +27,16 @@ JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có
 
 ### Nên
 
-- Nên có các Hashtag để dễ phân loại hơn. Danh sách các Hashtag
+- Nên có các Hashtag để dễ phân loại hơn. Danh sách các Hashtag (Có thể có nhiều Hashtag trong một bài viết):
+
+| Hashtag               | Mục đích                                                                                               |
+| --------------------- | ------------------------------------------------------------------------------------------------------ |
+| #jgteam_notifications | Dùng để thông báo cho thành viên những thông báo mới từ Ban Quản Trị ***(Chỉ dành cho Ban Quản Trị)*** |
+| #jgteam_questions     | Dùng để hỏi đáp những thắc mắc của các thành viên                                                      |
+| #jgteam_discussion    | Dùng để hỏi đáp những thắc mắc của các thành viên                                                      |
+| #jgteam_share         | Dùng để chia sẻ mọi thứ từ thành viên trong nhóm                                                       |
+| #jgteam_test          | Dùng để kiểm tra một số tính năng mới cho Group ***(Chỉ dành cho Ban Quản Trị)***                      |
+
 - Nên kham thảo các nguồn đáng tin cậy nếu muốn tranh luận
+
+![Join Right Now](https://i.imgur.com/GekXsrA.jpg)
