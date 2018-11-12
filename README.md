@@ -76,6 +76,9 @@ JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có
 1. Không xúc phạm, lăng mạ thành viên Ban Quản Trị và các thành viên khác
 1. Không dẫn vào những đường link (URL) độc hại, nguy hiểm.
 
+# Cập nhật ngày 12/11/2018
+## Sẽ có thay đổi, chỉnh lý sao cho phù hợp
+
 ![Join Right Now](https://i.imgur.com/GekXsrA.jpg)
 [Tham gia nhóm ngay][1]
 
