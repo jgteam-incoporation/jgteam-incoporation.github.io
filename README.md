@@ -3,7 +3,7 @@
 JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có thể chia sẻ những thứ của bạn cho mọi người và bạn có thể nhận lại những thứ còn hay ho hơn thế. Chủ yếu là về Lập Trình, Thiết Kế Đồ Họa, CMS,.v.v.
 
 ![JGTeaM Community](https://i.imgur.com/Q6s3TiC.jpg)
-
+[Tham gia nhóm ngay][1]
 # Nội quy khi tham gia thành viên Group JGTeaM Community
 
 ## Về bài viết
@@ -40,3 +40,6 @@ JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có
 - Nên kham thảo các nguồn đáng tin cậy nếu muốn tranh luận
 
 ![Join Right Now](https://i.imgur.com/GekXsrA.jpg)
+[Tham gia nhóm ngay][1]
+
+[1]: <https://facebook.com/groups/jgteam.community>
