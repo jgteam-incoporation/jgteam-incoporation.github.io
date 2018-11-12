@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Giới thiệu
 
-You can use the [editor on GitHub](https://github.com/jgteam-incoporation/jgteam-incoporation.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có thể chia sẻ những thứ của bạn cho mọi người và bạn có thể nhận lại những thứ còn hay ho hơn thế. Chủ yếu là về Lập Trình, Thiết Kế Đồ Họa, CMS,.v.v.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Nội quy khi tham gia thành viên Group JGTeaM Community
 
-### Markdown
+## Về bài viết
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Phải
 
-```markdown
-Syntax highlighted code block
+- Phải có đầy đủ chủ ngữ, vị ngữ.
+- Phải phù hợp với **Thuần Phong Mỹ Tục của Việt Nam**
+- Phải được **ban quản trị** xem xét mới được duyệt
 
-# Header 1
-## Header 2
-### Header 3
+### Không
 
-- Bulleted
-- List
+1. Không được tổ lái đến *chính trị*
+1. Không được gây khẩu chiến, bút chiến trong Group
+1. Không được gây chia rẽ nội bộ
+1. Không được nhờ vả ***Hack Facebook***, không nhờ vả ***DDOS website***
+1. Không được chia sẻ về việc trái với pháp luật, ***Hack Facebook, DDOS website***
+1. Không được xúc phạm quản trị viên, thành viên khác
+1. Không được quảng cáo Fanpage Facebook khác.
+1. Không chèn các đường link (URL) độc hại vào Group
 
-1. Numbered
-2. List
+### Nên
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jgteam-incoporation/jgteam-incoporation.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Nên có các Hashtag để dễ phân loại hơn. Danh sách các Hashtag
+- Nên kham thảo các nguồn đáng tin cậy nếu muốn tranh luận
