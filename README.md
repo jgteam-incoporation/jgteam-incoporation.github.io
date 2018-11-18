@@ -76,7 +76,13 @@ JGTeaM Community là một Group chuyên về Công Nghệ Thông Tin. Bạn có
 1. Không xúc phạm, lăng mạ thành viên Ban Quản Trị và các thành viên khác
 1. Không dẫn vào những đường link (URL) độc hại, nguy hiểm.
 
-# Cập nhật ngày 12/11/2018
+# Lưu ý
+
+**JGTeaM Community** được liên kết với **Pro Tech Trick Network**. Vì vậy bạn đừng quá ngạc nhiên vì sao có bài viết về **Pro Tech Trick Network** nhé vì đều do mình quản lý cả!
+
+Những luật ở trên đều được áp dụng vào cả Discord Chat và bất cứ nơi đâu liên quan đến ***JGTeaM và Pro Tech Trick Network***!
+
+# Cập nhật ngày 18/11/2018
 ## Sẽ có thay đổi, chỉnh lý sao cho phù hợp
 
 {% include footer.html %}
